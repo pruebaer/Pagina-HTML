@@ -1,5 +1,26 @@
 body{
 	color: white;
 	background: black;
+	max-width: 300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+h1 {
+	color: red;
 }
 
+
+h2 {
+	color: green;
+}
+h1, h2 {
+	text-align: center;
+}
+
+em{
+	color:yellow;
+}
+
+lif{
+	font-size: small;
+}
